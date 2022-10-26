@@ -1,0 +1,6 @@
+UnlitGeneric
+{
+	$baseTexture "skybox/projektabk"
+	$ignorez 1
+	$nofog 1
+}
